@@ -1,0 +1,14 @@
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\bin\Debug\net7.0\Estructura1.exe
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\bin\Debug\net7.0\Estructura1.deps.json
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\bin\Debug\net7.0\Estructura1.runtimeconfig.json
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\bin\Debug\net7.0\Estructura1.dll
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\bin\Debug\net7.0\Estructura1.pdb
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.AssemblyInfoInputs.cache
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.AssemblyInfo.cs
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.csproj.CoreCompileInputs.cache
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.dll
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\refint\Estructura1.dll
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.pdb
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\Estructura1.genruntimeconfig.cache
+C:\CarpetaProgramas\PrimeraPractica\Estructura1\Estructura1\obj\Debug\net7.0\ref\Estructura1.dll
